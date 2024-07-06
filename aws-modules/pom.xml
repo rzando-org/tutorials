@@ -27,14 +27,14 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-dynamodb</artifactId>
-            <version>1.12.523</version>
+            <version>1.12.757</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
 
     <properties>
         <aws-java-sdk.version>1.12.331</aws-java-sdk.version>
-        <aws-java-sdk-v2.version>2.24.9</aws-java-sdk-v2.version>
+        <aws-java-sdk-v2.version>2.26.16</aws-java-sdk-v2.version>
         <maven-shade-plugin.version>3.0.0</maven-shade-plugin.version>
     </properties>
 
