@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <spring-credhub-starter.version>3.1.0</spring-credhub-starter.version>
+        <spring-credhub-starter.version>3.2.0</spring-credhub-starter.version>
     </properties>
 
 </project>
