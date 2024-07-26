@@ -263,7 +263,7 @@
         <swagger-annotations.version>1.5.22</swagger-annotations.version>
         <spring-web.version>4.3.9.RELEASE</spring-web.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <!-- <jackson-databind-version>2.10.1</jackson-databind-version> -->
         <jackson-databind-nullable.version>0.2.1</jackson-databind-nullable.version>
         <jackson-threetenbp.version>2.15.2</jackson-threetenbp.version>
