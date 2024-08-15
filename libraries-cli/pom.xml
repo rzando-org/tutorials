@@ -69,7 +69,7 @@
         <airline.version>2.7.2</airline.version>
         <commons-cli.version>1.6.0</commons-cli.version>
         <spring-boot-starter.version>2.7.8</spring-boot-starter.version>
-        <spring.version>5.3.25</spring.version>
+        <spring.version>5.3.39</spring.version>
     </properties>
 
 </project>
