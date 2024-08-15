@@ -28,7 +28,7 @@
 
     <properties>
         <bouncycastle.version>1.76</bouncycastle.version>
-        <cryptacular.version>1.2.6</cryptacular.version>
+        <cryptacular.version>1.2.7</cryptacular.version>
     </properties>
 
     <build>
