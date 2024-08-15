@@ -116,7 +116,7 @@
         <spring-boot-starter.version>2.7.8</spring-boot-starter.version>
         <mesos.library.version>1.11.0</mesos.library.version>
         <handlebars.version>4.3.1</handlebars.version>
-        <spring.version>5.3.25</spring.version>
+        <spring.version>5.3.39</spring.version>
         <hsqldb.version>2.7.1</hsqldb.version>
         <mvel2.version>2.5.2.Final</mvel2.version>
     </properties>
