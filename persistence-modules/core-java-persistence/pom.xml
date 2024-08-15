@@ -65,7 +65,7 @@
         <HikariCP.version>5.1.0</HikariCP.version>
         <c3p0.version>0.9.5.5</c3p0.version>
         <springframework.boot.spring-boot-starter.version>3.0.4</springframework.boot.spring-boot-starter.version>
-        <springframework.spring-web.version>6.0.6</springframework.spring-web.version>
+        <springframework.spring-web.version>6.0.23</springframework.spring-web.version>
         <mysql-connector.version>8.2.0</mysql-connector.version>
     </properties>
 
