@@ -261,7 +261,7 @@
 
     <properties>
         <swagger-annotations.version>1.5.22</swagger-annotations.version>
-        <spring-web.version>4.3.9.RELEASE</spring-web.version>
+        <spring-web.version>5.3.38</spring-web.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <jackson.version>2.11.1</jackson.version>
         <!-- <jackson-databind-version>2.10.1</jackson-databind-version> -->
