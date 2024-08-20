@@ -251,7 +251,7 @@
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
         <spring.version>6.0.13</spring.version>
-        <spring-security.version>6.1.5</spring-security.version>
+        <spring-security.version>6.2.6</spring-security.version>
         <jakarta.servlet.version>6.0.0</jakarta.servlet.version>
     </properties>
 
