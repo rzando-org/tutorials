@@ -58,6 +58,6 @@
 
     <properties>
         <postgresql.version>42.7.1</postgresql.version>
-        <datasource-proxy.version>1.9.1</datasource-proxy.version>
+        <datasource-proxy.version>1.9.2</datasource-proxy.version>
     </properties>
 </project>
