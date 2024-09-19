@@ -115,8 +115,8 @@
         <gson.version>2.10.1</gson.version>
         <yamlbeans.version>1.15</yamlbeans.version>
         <apache-thrift.version>0.14.2</apache-thrift.version>
-        <google-protobuf.version>3.17.3</google-protobuf.version>
-        <jetcd-version>0.7.7</jetcd-version>
+        <google-protobuf.version>3.25.5</google-protobuf.version>
+        <jetcd-version>0.8.0</jetcd-version>
     </properties>
 
 </project>
