@@ -261,8 +261,7 @@
                         <configuration>
                             <finalName>benchmarks</finalName>
                             <transformers>
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>org.openjdk.jmh.Main</mainClass>
                                 </transformer>
                             </transformers>
@@ -376,7 +375,7 @@
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <quartz.version>2.3.0</quartz.version>
         <commons-net.version>3.6</commons-net.version>
-        <commonsio.version>2.6</commonsio.version>
+        <commonsio.version>2.14.0</commonsio.version>
         <javapoet.version>1.10.0</javapoet.version>
         <libphonenumber.version>8.12.9</libphonenumber.version>
         <functionaljava.version>4.8.1</functionaljava.version>
