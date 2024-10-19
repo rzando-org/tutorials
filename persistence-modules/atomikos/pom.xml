@@ -97,9 +97,9 @@
 
     <properties>
         <atomikos-version>6.0.0</atomikos-version>
-        <spring-version>6.1.2</spring-version>
+        <spring-version>6.1.14</spring-version>
         <hibernate.version>6.4.2.Final</hibernate.version>
-        <spring-data-jpa.version>3.2.2</spring-data-jpa.version>
+        <spring-data-jpa.version>3.2.11</spring-data-jpa.version>
         <activemq-core.version>5.7.0</activemq-core.version>
         <derby.version>10.8.1.2</derby.version>
         <jta.version>1.1</jta.version>
