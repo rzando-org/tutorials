@@ -113,10 +113,10 @@
         <classgraph.version>4.8.153</classgraph.version>
         <jbpm.version>7.20.0.Final</jbpm.version>
         <crawler4j.version>4.4.0</crawler4j.version>
-        <spring-boot-starter.version>2.7.8</spring-boot-starter.version>
+        <spring-boot-starter.version>3.2.11</spring-boot-starter.version>
         <mesos.library.version>1.11.0</mesos.library.version>
         <handlebars.version>4.3.1</handlebars.version>
-        <spring.version>5.3.25</spring.version>
+        <spring.version>6.1.14</spring.version>
         <hsqldb.version>2.7.1</hsqldb.version>
         <mvel2.version>2.5.2.Final</mvel2.version>
     </properties>
