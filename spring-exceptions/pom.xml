@@ -162,7 +162,7 @@
         <javassist.version>3.21.0-GA</javassist.version>
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
-        <mysql-connector-java.version>8.2.0</mysql-connector-java.version>
+        <mysql-connector-java.version>9.2.0</mysql-connector-java.version>
         <tomcat-dbcp.version>7.0.73</tomcat-dbcp.version>
         <derby.version>10.13.1.1</derby.version>
         <!-- various -->
