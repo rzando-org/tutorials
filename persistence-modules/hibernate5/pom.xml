@@ -58,7 +58,7 @@
 
     <properties>
         <hibernate.version>5.4.24.Final</hibernate.version>
-        <mysql.version>8.2.0</mysql.version>
+        <mysql.version>9.2.0</mysql.version>
         <mariaDB4j.version>2.2.3</mariaDB4j.version>
         <h2.version>2.1.214</h2.version>
     </properties>
