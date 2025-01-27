@@ -86,7 +86,7 @@
     <properties>
         <hibernate.version>5.4.14.Final</hibernate.version>
         <eclipselink.version>2.7.4</eclipselink.version>
-        <mysql.version>8.2.0</mysql.version>
+        <mysql.version>9.2.0</mysql.version>
         <javax.persistence-api.version>2.2</javax.persistence-api.version>
         <maven-processor-plugin.version>3.3.3</maven-processor-plugin.version>
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
