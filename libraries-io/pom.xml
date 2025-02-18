@@ -72,7 +72,7 @@
         <!-- sftp -->
         <jsch.version>0.2.16</jsch.version>
         <sshj.version>0.38.0</sshj.version>
-        <commons-vfs2.version>2.9.0</commons-vfs2.version>
+        <commons-vfs2.version>2.10.0</commons-vfs2.version>
         <zip4j.version>2.11.5</zip4j.version>
         <opencsv.version>5.9</opencsv.version>
         <spring.version>6.1.4</spring.version>
