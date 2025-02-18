@@ -30,7 +30,7 @@
     </build>
 
     <properties>
-        <tablesaw.version>0.43.1</tablesaw.version>
+        <tablesaw.version>0.44.0</tablesaw.version>
     </properties>
 
 </project>
