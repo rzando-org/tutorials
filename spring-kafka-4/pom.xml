@@ -54,7 +54,7 @@
     </build>
 
     <properties>
-        <spring-kafka.version>3.1.2</spring-kafka.version>
+        <spring-kafka.version>3.2.9</spring-kafka.version>
         <spring-boot.version>3.2.2</spring-boot.version>
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
     </properties>
