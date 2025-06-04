@@ -40,7 +40,7 @@
         <blockhound-junit-platform.version>1.0.9.RELEASE</blockhound-junit-platform.version>
         <checkstyle.version>10.16.0</checkstyle.version>
         <checksum-maven-plugin.version>1.11</checksum-maven-plugin.version>
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <feign-reactor-bom.version>4.0.3</feign-reactor-bom.version>
         <frontend-maven-plugin.version>1.15.0</frontend-maven-plugin.version>
         <git-commit-id-maven-plugin.version>8.0.2</git-commit-id-maven-plugin.version>
