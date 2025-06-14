@@ -42,6 +42,6 @@
     </build>
 
     <properties>
-        <loki-logback.version>1.4.2</loki-logback.version>
+        <loki-logback.version>2.0.0</loki-logback.version>
     </properties>
 </project>
