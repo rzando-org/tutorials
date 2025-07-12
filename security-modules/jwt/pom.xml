@@ -22,7 +22,7 @@
     </dependencies>
 
     <properties>
-        <auth0-jwt.version>4.2.1</auth0-jwt.version>
+        <auth0-jwt.version>4.5.0</auth0-jwt.version>
     </properties>
 
 </project>
