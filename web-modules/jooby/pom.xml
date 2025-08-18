@@ -76,7 +76,7 @@
         <rest-assured.version>3.1.1</rest-assured.version>
         <application.class>com.baeldung.jooby.App</application.class>
         <maven-shade-plugin.version>3.2.4</maven-shade-plugin.version>
-        <okhttp.version>5.0.0-alpha.12</okhttp.version>
+        <okhttp.version>5.0.0</okhttp.version>
     </properties>
 
 </project>
