@@ -107,7 +107,7 @@
         <snakeyaml.version>2.2</snakeyaml.version>
         <kryo.version>4.0.1</kryo.version>
         <smooks.version>1.7.0</smooks.version>
-        <opencsv.version>5.8</opencsv.version>
+        <opencsv.version>5.12.0</opencsv.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <docx4j.version>6.1.2</docx4j.version>
@@ -116,7 +116,7 @@
         <yamlbeans.version>1.15</yamlbeans.version>
         <apache-thrift.version>0.14.2</apache-thrift.version>
         <google-protobuf.version>3.17.3</google-protobuf.version>
-        <jetcd-version>0.7.7</jetcd-version>
+        <jetcd-version>0.8.0</jetcd-version>
     </properties>
 
 </project>
