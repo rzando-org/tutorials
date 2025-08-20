@@ -116,11 +116,11 @@
 
     <properties>
         <cxf.version>3.1.8</cxf.version>
-        <spring.version>5.3.25</spring.version>
+        <spring.version>6.2.10</spring.version>
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
         <jstl.version>1.2</jstl.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
-        <jaxws-ri.version>2.3.3</jaxws-ri.version>
+        <jaxws-ri.version>4.0.0</jaxws-ri.version>
     </properties>
 
 </project>
