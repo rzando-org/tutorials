@@ -27,7 +27,7 @@
     </dependencies>
 
     <properties>
-        <grpc-spring-boot-starter.version>2.15.0.RELEASE</grpc-spring-boot-starter.version>
+        <grpc-spring-boot-starter.version>3.0.0.RELEASE</grpc-spring-boot-starter.version>
     </properties>
 
 </project>
