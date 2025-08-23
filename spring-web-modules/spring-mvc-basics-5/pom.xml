@@ -84,7 +84,7 @@
         <json-path.version>2.9.0</json-path.version>
         <jaxb-runtime.version>2.3.5</jaxb-runtime.version>
         <jakarta.servlet.jsp.jstl>2.0.0</jakarta.servlet.jsp.jstl>
-        <io.rest-assured.version>3.0.0</io.rest-assured.version>
+        <io.rest-assured.version>5.5.6</io.rest-assured.version>
     </properties>
 
 </project>
