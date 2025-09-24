@@ -159,7 +159,7 @@
         <scribejava.version>5.1.0</scribejava.version>
         <json.version>20240303</json.version>
         <jakarta.mail.version>2.0.1</jakarta.mail.version>
-        <spring-boot.version>3.1.5</spring-boot.version>
+        <spring-boot.version>3.4.10</spring-boot.version>
         <jakarta.servlet-api.version>6.1.0-M2</jakarta.servlet-api.version>
     </properties>
 
