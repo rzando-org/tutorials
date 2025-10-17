@@ -115,7 +115,7 @@
     <properties>
         <start-class>com.baeldung.boot.Application</start-class>
         <spring-ws-test.version>4.0.10</spring-ws-test.version>
-        <testcontainers.version>1.19.7</testcontainers.version>
+        <testcontainers.version>2.0.0</testcontainers.version>
         <testcontainers-keycloak.version>3.3.0</testcontainers-keycloak.version>
         <testcontainers-redis-junit-jupiter.version>1.4.6</testcontainers-redis-junit-jupiter.version>
         <rest-assured.version>5.4.0</rest-assured.version>
