@@ -63,7 +63,7 @@
 
     <properties>
         <asciidoctor-maven-plugin.version>2.2.2</asciidoctor-maven-plugin.version>
-        <asciidoctorj.version>2.5.7</asciidoctorj.version>
+        <asciidoctorj.version>3.0.1</asciidoctorj.version>
         <asciidoctorj-pdf.version>2.3.4</asciidoctorj-pdf.version>
         <asciidoctorj-pdf.plugin.version>2.3.4</asciidoctorj-pdf.plugin.version>
     </properties>
