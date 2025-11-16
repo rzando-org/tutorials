@@ -54,7 +54,7 @@
     </build>
 
     <properties>
-        <slack.version>1.4</slack.version>
+        <slack.version>1.17.0</slack.version>
     </properties>
 
 </project>
