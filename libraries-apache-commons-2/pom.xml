@@ -78,7 +78,7 @@
         <apache-commons-text.version>1.10.0</apache-commons-text.version>
         <commons-net.version>3.6</commons-net.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
-        <commons-configuration2.version>2.10.0</commons-configuration2.version>
+        <commons-configuration2.version>2.13.0</commons-configuration2.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-jexl.version>2.1.1</commons-jexl.version>
         <xz.version>1.9</xz.version>
