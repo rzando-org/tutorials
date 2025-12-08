@@ -73,7 +73,7 @@
 
     <properties>
         <!-- Mime Type Libraries -->
-        <tika.version>2.8.0</tika.version>
+        <tika.version>3.2.2</tika.version>
         <jmime-magic.version>0.1.5</jmime-magic.version>
         <jodd-util.version>6.2.1</jodd-util.version>
         <simplemagic.version>1.17</simplemagic.version>
