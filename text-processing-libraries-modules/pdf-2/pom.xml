@@ -69,7 +69,7 @@
         <pdfbox.version>3.0.0</pdfbox.version>
         <poi-ooxml.version>5.2.5</poi-ooxml.version>
         <log4j-api.version>2.20.0</log4j-api.version>
-        <log4j-core.version>2.20.0</log4j-core.version>
+        <log4j-core.version>2.25.3</log4j-core.version>
     </properties>
 
 </project>
