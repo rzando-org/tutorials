@@ -67,7 +67,7 @@
     </build>
 
     <properties>
-        <activemq.version>2.32.0</activemq.version>
+        <activemq.version>2.50.0</activemq.version>
     </properties>
 
 </project>
